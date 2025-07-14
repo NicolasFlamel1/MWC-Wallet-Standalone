@@ -3,6 +3,9 @@
 ### Description
 Standalone version of the MimbleWimble Coin web wallet, [mwcwallet.com](https://mwcwallet.com), that consists of just a single HTML file.
 
+### Running
+You can run this by downloading it from its [releases](https://github.com/NicolasFlamel1/MWC-Wallet-Standalone/releases) and running it in a web browser of your choice.
+
 ### Building
 Run the following command to install the dependencies required to build this.
 ```
